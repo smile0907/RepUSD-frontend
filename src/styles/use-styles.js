@@ -11,6 +11,7 @@ const commonUseStyles = makeStyles(theme => ({
   },
   flex: {
     display: 'flex',
+    width: 'auto',
   },
   rowDirection: {
     flexDirection: 'row',
